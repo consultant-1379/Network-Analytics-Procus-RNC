@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<feature>
+	<product-id>CNA 403 3492</product-id>
+	<feature-name>Network-Analytics-Procus-RAN</feature-name>
+	<release>17B</release>
+	<system-area>RAN/RAN-Analysis</system-area>
+    <datasource-guid>7b395f34-32e5-43ff-af09-9837f3794e36</datasource-guid> 
+    <ericsson-library>true</ericsson-library>
+</feature>
